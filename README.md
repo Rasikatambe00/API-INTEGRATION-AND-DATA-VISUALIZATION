@@ -21,8 +21,6 @@ This project fetches weather forecast data from the **OpenWeatherMap API** and v
 * Generates a simple **line plot** of the forecasted temperature.
 * Supports customization for any city worldwide.
 
-##Output of the code
-<img width="1280" height="612" alt="Figure_1" src="https://github.com/user-attachments/assets/84111882-2f73-450e-bc82-186988c2ab23" />
 
 
 
